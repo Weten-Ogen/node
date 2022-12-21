@@ -1,0 +1,1 @@
+this is the the result of the writefileSyncthis is the the result of the writefileSync
